@@ -24,3 +24,7 @@ PRODUCT_PACKAGES += \
 # Camera App
 PRODUCT_PACKAGES += \
 	Camera2
+
+# Camera App
+PRODUCT_PACKAGES += \
+	SnapdragonGallery
